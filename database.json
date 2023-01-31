@@ -1,0 +1,21 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "content": "Hello world",
+      "username": "PartoshIsLovePartoshIsLife",
+      "timestamp": "17:44",
+      "likes_count": 1,
+      "comments_count": 0
+    }
+  ],
+  "comments": [
+    {
+      "content": "I really liked that post",
+      "username": "Sherek",
+      "post_id": "1",
+      "post_user": "Bovel",
+      "timestamp": "17:48"
+    }
+  ]
+}
